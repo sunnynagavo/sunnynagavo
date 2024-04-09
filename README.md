@@ -14,6 +14,15 @@ DatabasesMicrosoft (Azure) DatabasesDatabases and storage systemsDocument databa
 
 **Skills** C# | Microsoft Certified | Medium Blogger | .Net Core | Xamarin | ASP.Net | Angular
 
+Mentoring is my passion and I helped several engineers in mentoring and coaching them. Want to check out my reviews and book a session, go to ADP list: https://adplist.org/mentors/sunny
+
+I can help you with
+-product engineering
+-resume reviews
+-problem solving
+-effective communication skills
+-negotiation skills
+
 If you’ve made it this far, please show your appreciation with a clap and follow the author! 👏️️
 <!--
 **sunnynagavo/sunnynagavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
