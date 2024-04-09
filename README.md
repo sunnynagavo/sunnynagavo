@@ -16,6 +16,8 @@ DatabasesMicrosoft (Azure) DatabasesDatabases and storage systemsDocument databa
 
 Mentoring is my passion and I helped several engineers in mentoring and coaching them. Want to check out my reviews and book a session, go to ADP list: https://adplist.org/mentors/sunny
 
+Sharing in Technical syncs/conferences is my hobby as one wise man said once ( sharing is caring) https://sessionize.com/naga-santhosh-reddy-vootukuri/
+
 I can help you with
 -product engineering
 -resume reviews
