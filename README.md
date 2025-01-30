@@ -24,6 +24,7 @@ I can help you with
 -problem solving
 -effective communication skills
 -negotiation skills
+-career progression
 
 If you’ve made it this far, please show your appreciation with a clap and follow the author! 👏️️
 <!--
