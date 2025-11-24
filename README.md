@@ -43,3 +43,5 @@ Here are some ideas to get you started:
 -->
 
 [![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnynagavo&theme=ambient_gradient&show_icons=true)](https://github.com/sunnynagavo/github-readme-stats)
+
+[![DevStats Card](https://devstats.me/?username=sunnynagavo)](https://github.com/sunnynagavo/devstats-card)
