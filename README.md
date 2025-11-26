@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 **GitHub Stats**:
 
-[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnynagavo&theme=ambient_gradient&show_icons=true)](https://github.com/sunnynagavo/github-readme-stats)
+[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnynagavo&theme=radical&show_icons=true)](https://github.com/sunnynagavo/github-readme-stats)
 
 **DevStats**:
 
