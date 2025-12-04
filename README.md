@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**Conference talks**:
+<!-- Link to public profile -->
+<a href="https://sessionize.com/naga-santhosh-reddy-vootukuri/" target="_blank">My Sessionize Profile</a>
 
 **Awards/Memberships**:
 
