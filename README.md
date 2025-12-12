@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <!-- Link to public profile -->
 <a href="https://sessionize.com/naga-santhosh-reddy-vootukuri/" target="_blank">My Sessionize Profile</a>
 
-**Awards/Memberships**:
+**Awards**:
 
 [Docker captain](https://www.docker.com/contributors/naga-santhosh-reddy-vootukuri/)
 [Dapr Meteor](https://dapr.io/community/program/)
