@@ -26,7 +26,7 @@ I can help you with
 -negotiation skills
 -career progression
 
-If you’ve made it this far, please show your appreciation with a clap and follow the author! 👏️️
+If you’ve made it this far, please show your appreciation with a clap and follow the author!  👏️️
 <!--
 **sunnynagavo/sunnynagavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
