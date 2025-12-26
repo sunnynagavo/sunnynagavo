@@ -10,7 +10,7 @@ Aside from technical responsibilities, Naga engages in Microsoft hackathons and 
 
 
 **TOPICS**
-DatabasesMicrosoft (Azure) DatabasesDatabases and storage systemsDocument databasesAzureAzure SQL ServerAzure Kubernetes Services (AKS)Azure Data FactoryCloud Computing on the Azure PlatformAzure FunctionsAzure PaaSAzure SecurityAzure ADAzure App ServiceAzure Logic AppsAzure CosmosDBAzure Data & AIc#dotNet.net dotnetdotnet coredotnet MAUIDotNetNukeAKSpythonData Engineering with Pythonarchitecture patternsFrontend ArchitectureEnterprise ArchitectureMicroservice ArchitectureSoftware ArchitectureCloud ArchitectureData science and machine learning with Python
+Databases Microsoft (Azure) DatabasesDatabases and storage systemsDocument databasesAzureAzure SQL ServerAzure Kubernetes Services (AKS)Azure Data FactoryCloud Computing on the Azure PlatformAzure FunctionsAzure PaaSAzure SecurityAzure ADAzure App ServiceAzure Logic AppsAzure CosmosDBAzure Data & AIc#dotNet.net dotnetdotnet coredotnet MAUIDotNetNukeAKSpythonData Engineering with Pythonarchitecture patternsFrontend ArchitectureEnterprise ArchitectureMicroservice ArchitectureSoftware ArchitectureCloud ArchitectureData science and machine learning with Python
 
 **Skills** C# | Microsoft Certified | DZone Blogger | .Net Core | Xamarin | ASP.Net | Angular
 
