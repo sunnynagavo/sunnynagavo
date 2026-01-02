@@ -12,7 +12,7 @@ Aside from technical responsibilities, Naga engages in Microsoft hackathons and 
 **TOPICS**
 Databases Microsoft (Azure) DatabasesDatabases and storage systemsDocument databasesAzureAzure SQL ServerAzure Kubernetes Services (AKS)Azure Data FactoryCloud Computing on the Azure PlatformAzure FunctionsAzure PaaSAzure SecurityAzure ADAzure App ServiceAzure Logic AppsAzure CosmosDBAzure Data & AIc#dotNet.net dotnetdotnet coredotnet MAUIDotNetNukeAKSpythonData Engineering with Pythonarchitecture patternsFrontend ArchitectureEnterprise ArchitectureMicroservice ArchitectureSoftware ArchitectureCloud ArchitectureData science and machine learning with Python
 
-**Skills** C# | Microsoft Certified | DZone Blogger | .Net Core | Xamarin | ASP.Net | Angular | Aspire
+**Skills** C# | Microsoft Certified | DZone Blogger | .Net Core | Xamarin | ASP.Net | Angular | Aspire | JavaScript
 
 Mentoring is my passion and I helped several engineers in mentoring and coaching them. Want to check out my reviews and book a session, go to ADP list: https://adplist.org/mentors/sunny
 
