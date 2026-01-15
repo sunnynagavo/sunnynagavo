@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Naga Santhosh Reddy Vootukuri, a seasoned professional with over 18.5+ years at Microsoft, reflects on his journey from India to china and then to the USA. Graduating from Sreenidhi Institute of Science and Technology in 2008, he now serves as a Principal Software Engineering Manager for Azure SQL. His role involves leading his team through software development cycles, ensuring successful product launches.
+Naga Santhosh Reddy Vootukuri, a seasoned professional with over 18+ years at Microsoft, reflects on his journey from India to china and then to the USA. Graduating from Sreenidhi Institute of Science and Technology in 2008, he now serves as a Principal Software Engineering Manager for Azure SQL. His role involves leading his team through software development cycles, ensuring successful product launches.
 
 Currently, Naga focuses on a significant initiative in Azure SQL Deployment, emphasizing high availability for SQL customers during feature rollouts. Previously, he managed Master Data Services (MDS) within SQL Server, gaining community connections and contributing actively to Microsoft forums.
 
