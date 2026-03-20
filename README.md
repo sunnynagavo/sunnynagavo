@@ -52,6 +52,11 @@ Here are some ideas to get you started:
 [Dapr Meteor](https://dapr.io/community/program/)
 [C# Corner MVP](https://www.c-sharpcorner.com/members/naga-santhosh-reddy-vootukuri)
 
+
+**Contact details**
+Email: aunnycoder5@gmail.com
+jetbrains request id : 18032026/19220941
+
 **GitHub Stats**:
 
 [![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnynagavo&show_icons=true&theme=transparent)](https://github.com/sunnynagavo/github-readme-stats)
