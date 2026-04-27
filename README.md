@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 
 **Contact details**
 Email: sunnycoder5@gmail.com
-jetbrains request id : 18032026/19220941
 
 **GitHub Stats**:
 
